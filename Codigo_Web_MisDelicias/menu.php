@@ -10,11 +10,9 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
         crossorigin="anonymous">
 </head>
-
 <body class="hidden">
     <div class="centrado" id="onload">
         <div class="lds-facebook">
-            
         </div>
     </div>
     <header>
@@ -43,7 +41,6 @@
         </div>
     </header>
     <main>
-        
         <section class="about" id="servicio">
             <div class="contenedor">
                 <h3>Menús Del Día</h3>
@@ -194,10 +191,8 @@
             </div>
             <p>En este perfil amamos la comida de Mis Delicias.</p>
         </div>
-
     </footer>
     </main>
-    
     <script src="assets/js/jquery.js"></script>
     <script src="assets/js/main.js"></script>
     <script src="assets/js/filtro.js"></script>
