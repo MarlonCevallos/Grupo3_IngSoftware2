@@ -17,7 +17,7 @@
         echo '
         <script> 
             alert("El usuario o correo ya existen. Intente registrarse con otros datos.");
-            window.location ="../index.php";
+            window.location = "../index.php";
         </script>
     '; 
     exit();
@@ -28,15 +28,15 @@
         echo '
             <script> 
                 alert("Usuario registrado exitosamente.");
-                window.location ="../index.php";
+                window.location = "../index.php";
             </script>
         ';
     }
     else{
         echo '
             <script> 
-                alert("Hubo un problema, intentar nuevamente.");
-                window.location ="../index.php";
+                alert("Hubo un problema, intente nuevamente.");
+                window.location = "../index.php";
             </script>
         ';
     }
