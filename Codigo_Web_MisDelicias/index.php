@@ -9,7 +9,7 @@
     
 </head>
 <body>
-        <main>
+  <main>
             <div class="contenedor__todo">
                 <div class="caja__trasera">
                     <div class="caja__trasera-login">
@@ -25,7 +25,6 @@
                         <button id="btn__registrarse">Regístrarse</button>
                     </div>
                 </div>
-
                 <!--Formulario de Login y registro-->
                 <div class="contenedor__login-register">
                     <!--Login-->
@@ -35,7 +34,6 @@
                         <input type="password" placeholder="Contraseña" name="contraseña" required="">
                         <button>Ingresar</button>
                     </form>
-
                     <!--Register-->
                     <form action="php/registro_usuarios.php" method="POST" class="formulario__register" id="formulario">
                         <h2>Registrarse</h2>
@@ -49,6 +47,6 @@
                 </div>
             </div>
         </main>
-        <script src="assets/js/script.js"></script>
+        <script src="assets/js/script.js"></script>      
 </body>
 </html>
