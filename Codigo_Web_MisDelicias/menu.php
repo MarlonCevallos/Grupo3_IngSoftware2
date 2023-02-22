@@ -188,7 +188,7 @@
                 
                 <a href="https://youtube.com/shorts/G0q21WQO2AY?feature=share" target="_blank"><i class="fab fa-youtube"></i></a>
                 <a href="https://www.facebook.com/MisDelicias-Restaurant-104867142321667" target="_blank"><i class="fab fa-facebook-square"></i>
-                <a href="https://github.com/ViankaH/5437_G4INGSWI/graphs/contributors" target="_blank"><i class="fab fa-github"></i></a>
+                <a href="https://github.com/MarlonCevallos/Grupo3_IngSoftware2/graphs/contributors" target="_blank"><i class="fab fa-github"></i></a>
             </div>
             <p>En este perfil amamos la comida de Mis Delicias.</p>
         </div>
